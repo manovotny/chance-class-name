@@ -1,6 +1,6 @@
 {
-  "name": "chance-classname",
-  "description": "A Chance.js mixin to generate objects.",
+  "name": "chance-class-name",
+  "description": "A Chance.js mixin to generate class names.",
   "version": "0.0.0",
   "author": {
     "name": "Michael Novotny",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manovotny/chance-classname.git"
+    "url": "git+https://github.com/manovotny/chance-class-name.git"
   },
   "keywords": [
     "chance",
